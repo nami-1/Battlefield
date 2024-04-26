@@ -1,0 +1,15 @@
+c:\Users\namith.muttharamar1\Documents\programmering\Battlefield\Battlefield\bin\Debug\net7.0\Battlefield.exe
+c:\Users\namith.muttharamar1\Documents\programmering\Battlefield\Battlefield\bin\Debug\net7.0\Battlefield.deps.json
+c:\Users\namith.muttharamar1\Documents\programmering\Battlefield\Battlefield\bin\Debug\net7.0\Battlefield.runtimeconfig.json
+c:\Users\namith.muttharamar1\Documents\programmering\Battlefield\Battlefield\bin\Debug\net7.0\Battlefield.dll
+c:\Users\namith.muttharamar1\Documents\programmering\Battlefield\Battlefield\bin\Debug\net7.0\Battlefield.pdb
+c:\Users\namith.muttharamar1\Documents\programmering\Battlefield\Battlefield\obj\Debug\net7.0\Battlefield.csproj.AssemblyReference.cache
+c:\Users\namith.muttharamar1\Documents\programmering\Battlefield\Battlefield\obj\Debug\net7.0\Battlefield.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\namith.muttharamar1\Documents\programmering\Battlefield\Battlefield\obj\Debug\net7.0\Battlefield.AssemblyInfoInputs.cache
+c:\Users\namith.muttharamar1\Documents\programmering\Battlefield\Battlefield\obj\Debug\net7.0\Battlefield.AssemblyInfo.cs
+c:\Users\namith.muttharamar1\Documents\programmering\Battlefield\Battlefield\obj\Debug\net7.0\Battlefield.csproj.CoreCompileInputs.cache
+c:\Users\namith.muttharamar1\Documents\programmering\Battlefield\Battlefield\obj\Debug\net7.0\Battlefield.dll
+c:\Users\namith.muttharamar1\Documents\programmering\Battlefield\Battlefield\obj\Debug\net7.0\refint\Battlefield.dll
+c:\Users\namith.muttharamar1\Documents\programmering\Battlefield\Battlefield\obj\Debug\net7.0\Battlefield.pdb
+c:\Users\namith.muttharamar1\Documents\programmering\Battlefield\Battlefield\obj\Debug\net7.0\Battlefield.genruntimeconfig.cache
+c:\Users\namith.muttharamar1\Documents\programmering\Battlefield\Battlefield\obj\Debug\net7.0\ref\Battlefield.dll
